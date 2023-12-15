@@ -1,7 +1,19 @@
 /******************
  * YOUR CODE BELOW *
  ******************/
-
+///////////////Variables//////////////////
+let myFirstName = "Sadie"
+let myLastName = "Ferguson"
+let myFavoriteCeleb = "Kodak"
+let mySentence = "Have a happy holiday."
+let myLuckyNum = 7
+let myAge = 26
+let myHeight = 68
+let myFavoriteYear = 2017
+/////////Tasks that use math////////////////
+let mySum = 5 + 2317 + 36
+let myProduct = 232 * 43 / 2 + 4
+let myHeightAndAge = 94
 
 /*********************************************************************************************************************
 

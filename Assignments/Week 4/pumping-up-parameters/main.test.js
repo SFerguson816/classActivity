@@ -3,7 +3,17 @@
 Your code goes below.
 
 */
+function opposite(num2){
+  z = -num2
+}
 
+function makeFullName(lastName){
+  name = name + " " + lastName
+}
+
+function yellAt(str){
+  greeting = greeting + ", " + str + "!"
+}
 
 
 
