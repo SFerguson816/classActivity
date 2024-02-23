@@ -20,12 +20,21 @@
 // //['C', 'B', 'A']
 
 
-function reverseArray(arr) {
-console.log(arr.reverse()) 
+// function reverseArray(arr) {
+// console.log(arr.reverse()) 
 
-}
-reverseArray([1, 2, 3, 4, 5])
+// }
+// reverseArray([1, 2, 3, 4, 5])
 
-reverseArray(['A', 'B', 'C'])
+// reverseArray(['A', 'B', 'C'])
 
+
+// function hello(){
+//     console.log("Hello");
+// }
+// hello();
+
+const hello = (name) => console.log("Hello");
+
+hello();
 

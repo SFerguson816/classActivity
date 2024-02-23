@@ -1,3 +1,11 @@
+const name = function() {
+console.log("This is an anonymous function")
+}
+
+
+
+
+
 // /////////////////////////////////Functions//////////////////////////////////////////////////
 //Buliding block of your JS code
 //it is a reusable block of code allow you to perform a specific task
@@ -71,3 +79,23 @@ adding(555, 89,45,48)
 // ["us", "canada","barcelona"]
 
 // return ["US", "CANADA", "BARCELONA"]
+
+/////Declaration Function
+function myName() {
+    let name = "Sadie"
+    console.log(name)
+}
+myName()
+
+
+//////Anonymous Function
+const add = function(n) {
+    return n + n
+}
+console.log(add(1))
+
+////Arrow Function
+const myFunction = n => {
+    //code
+}
+myFunction()

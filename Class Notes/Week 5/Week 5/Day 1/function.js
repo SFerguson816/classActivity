@@ -91,3 +91,8 @@ function capitalizeArray(arr){
     console.log(newArr)
 }
 capitalizeArray(["us", "canada","barcelona", "mexico", "norway"])
+
+
+
+/////Practice Examples
+///Add Number 
